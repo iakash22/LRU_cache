@@ -1,8 +1,6 @@
 
 # LRU Cache Implementation
 
-A brief description of what this project does and who it's for
-
 ## 📌 Overview  
 This project implements a **Least Recently Used (LRU) Cache** using a **Doubly Linked List** and a **HashMap** (`Map` object in JavaScript). The cache supports **O(1) time complexity** for `get()` and `put()` operations.
 
